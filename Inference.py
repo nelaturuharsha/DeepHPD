@@ -28,7 +28,7 @@ def run_classification(labels):
         # And capture continuously forever.
         softmax_tensor = sess.graph.get_tensor_by_name('final_result:0')
         #for video in os.listdir("./predictimage"):
-        cam = cv2.VideoCapture("./20171124_224528.mp4")
+        cam = cv2.VideoCapture("0")
         while True:
             ret, frame = cam.read()
             #frame = cv2.resize(frame, (1920, 1080))

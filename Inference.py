@@ -47,7 +47,7 @@ def run_classification(labels):
             predicted_label = labels[max_index]
             #return (predicted_label)
             #print("%s (%.2f%%)" % (predicted_label, max_value * 100))
-            print(predicted_label)
+            return(predicted_label)
             # Reset the buffer so we're ready for the next one.
             #raw_capture.truncate(0)
 

@@ -16,9 +16,10 @@ Software Used :
 </ul>
 
 The two classes provided by the classifier are:
-1. human
-2. nohuman
-
+<ol>
+<li> human
+<li> nohuman
+</ol>
 For running the project,
 Key files required are :
 <ol>

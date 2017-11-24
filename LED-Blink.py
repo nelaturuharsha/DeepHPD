@@ -1,6 +1,6 @@
 import RPi.GPIO as GPIO
 import time
-from online.py import *
+from Inference.py import *
 
 string = get_classifications()
 

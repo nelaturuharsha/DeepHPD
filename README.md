@@ -1,8 +1,6 @@
-# DeepHPD
+# DeepHPD - Deep Human Presence Detection
 
-# GyPsY
-
-Contributers : [Sree Harsha Nelaturu](https://github.com/TheBigFundamental), [Anith Patel](https://github.com/anithp), Avyay Sah
+Contributers : [Sree Harsha Nelaturu](https://github.com/TheBigFundamental), [Anith Patel](https://github.com/anithp), [Avyay Sah](https://github.com/avyay1997)
 
 DeepHPD is a novel application which uses Deep Learning in order to detect the presence of a human being. This is done by using a combination of Convolutional Neural Networks and OpenCV which along with a Raspberry pi and Basler Dart Camera, which blinks an LED when it detects human presence.
 

@@ -29,6 +29,7 @@ Key files required are :
 Once these resources are compiled, run LED-Blink.py to access the program.
 
 Sample:
+
 [INPUT]
 Footage via Basler DART is taken via OpenCV
 

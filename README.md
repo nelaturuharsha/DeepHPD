@@ -15,9 +15,12 @@ Software Used :
 <li> CUDA
 </ul>
 Download the weights of the trained model and place them in the same folder
-[Weights](https://drive.google.com/open?id=1JvRAhaAW8_dKuzmEOF0XfshtJZpYwYHv)
+
+[Weights](https://drive.google.com/open?id=1JvRAhaAW8_dKuzmEOF0XfshtJZpYwYHv).
+
 The Tensorflow graph also to be placed in the same folder
-[Retrained Graph](https://drive.google.com/open?id=1G48duiFtHyuRFHcnZl7AL7OJEdtuJiWC)
+
+[Retrained Graph](https://drive.google.com/open?id=1G48duiFtHyuRFHcnZl7AL7OJEdtuJiWC).
 
 The two classes provided by the classifier are:
 <ol>
